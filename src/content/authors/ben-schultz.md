@@ -1,7 +1,7 @@
 ---
-title: Mark Dinn
+title: Ben Schultz
 image: /images/authors/mark-dinn.jpg
-description: this is meta description
+description: Ben Schultz is a something
 social:
   facebook: https://www.facebook.com/
   twitter: https://www.twitter.com/

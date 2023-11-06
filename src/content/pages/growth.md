@@ -13,6 +13,6 @@ This page is going to be re-written as one of the basic concepts
 
 ## Basics
 
-[Identity](./basics-identity)
-[Formation](./basics-formation)
-[Growth](./basics-growth)
+[Identity](./identity)
+[Formation](./formation)
+[Growth](./growth)

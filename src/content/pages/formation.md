@@ -31,6 +31,6 @@ Check out [Intentions](./intentions)
 
 ## Basics
 
-[Identity](./basics-identity)
-[Formation](./basics-formation)
-[Growth](./basics-growth)
+[Identity](./identity)
+[Formation](./formation)
+[Growth](./growth)

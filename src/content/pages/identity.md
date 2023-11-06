@@ -23,6 +23,6 @@ There is a difference between what we know in our minds and how we act with our 
 
 ## Basics
 
-[Identity](./basics-identity)
-[Formation](./basics-formation)
-[Growth](./basics-growth)
+[Identity](./identity)
+[Formation](./formation)
+[Growth](./growth)

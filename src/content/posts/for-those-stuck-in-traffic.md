@@ -1,5 +1,5 @@
 ---
-title: A Liturgy for Those Stuck in Traffic
+title: For Those Stuck in Traffic
 description: "How can I turn an inconvenience into a positive experience?"
 date: 2023-08-15
 image: ""
@@ -12,7 +12,8 @@ tags:
     "for drivers",
     "for others",
     "gratitude",
-    "on a ride",  ]
+    "on a ride",
+  ]
 draft: false
 ---
 

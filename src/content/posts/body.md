@@ -3,7 +3,7 @@ title: "Formation: Body"
 description: "meta description"
 date: 2023-11-05T08:00:00Z
 image: ""
-categories: ["formation", "intentions"]
+categories: ["intentions"]
 authors: ["Ben Schultz"]
 tags: ["formation", "counter-formation"]
 draft: false

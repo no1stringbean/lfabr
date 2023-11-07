@@ -26,24 +26,14 @@ const { title, description, meta_title, image } = entry.data;
           <ul class="flex flex-col space-y-8">
             <li>
               <div class="flex text-theme-dark items-center text-xl">
-                <FaAddressCard className="mr-3 text-primary" />
-                <p class="font-semibold">Address</p>
+                <p>Reach out paragraph. Does this work? Looks like it does! Add something here about reaaching out with questions, comments, feedback.</p>
               </div>
-              <p set:html={markdownify(address)} class="mt-2 leading-5 pl-8" />
-            </li>
-            <li>
               <div class="flex text-theme-dark items-center text-xl">
                 <FaEnvelope className="mr-3 text-primary" />
                 <p class="font-semibold">Email</p>
+              <br><br>
               </div>
               <p set:html={markdownify(email)} class="mt-2 leading-5 pl-8 content" />
-            </li>
-            <li>
-              <div class="flex text-theme-dark items-center text-xl">
-                <FaPhoneAlt className="mr-3 text-primary" />
-                <p class="font-semibold">Phone</p>
-              </div>
-              <p set:html={markdownify(phone)} class="mt-2 leading-5 pl-8" />
             </li>
           </ul>
         </div>

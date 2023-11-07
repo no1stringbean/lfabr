@@ -2,7 +2,7 @@
 title: "Liturgy for a Bike Ride"
 meta_title: "What is Liturgy for a BIke Ride?"
 image: "/images/author.png"
-draft: false
+draft: true
 
 what_i_do:
   title: "What I Do"

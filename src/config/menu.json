@@ -1,52 +1,35 @@
 {
   "main": [
     {
-      "name": "Home",
-      "url": "/"
-    },
-
-    {
       "name": "Basics",
-      "url": "/basics"
+      "url": "/categories/basics"
     },
 
     {
       "name": "Intentions",
-      "url": "/intentions"
+      "url": "/categories/intentions"
     },
-
     {
-      "name": "Writing",
-      "url": "",
-      "hasChildren": true,
-      "children": [
-        {
-          "name": "All",
-          "url": "/"
-        },
-        {
-          "name": "Liturgies",
-          "url": "/categories/liturgies"
-        },
-        {
-          "name": "Tactics",
-          "url": "/categories/tactics"
-        },
-        {
-          "name": "Tags",
-          "url": "/tags"
-        }
-      ]
+      "name": "Liturgies",
+      "url": "/categories/liturgies"
+    },
+    {
+      "name": "Tactics",
+      "url": "/categories/tactics"
     }
   ],
   "footer": [
     {
-      "name": "About",
-      "url": "/about"
-    },
-    {
       "name": "Contact",
       "url": "/contact"
+    },
+    {
+      "name": "Categories",
+      "url": "/categories"
+    },
+    {
+      "name": "Tags",
+      "url": "/tags"
     }
   ]
 }

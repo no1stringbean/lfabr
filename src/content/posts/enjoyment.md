@@ -3,7 +3,7 @@ title: "Formation: Enjoyment"
 description: "meta description"
 date: 2023-11-05T08:00:00Z
 image: ""
-categories: ["formation", "intentions"]
+categories: ["intentions"]
 authors: ["Ben Schultz"]
 tags: ["everyday", "formation", "counter-formation"]
 draft: false

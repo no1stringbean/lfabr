@@ -1,9 +1,9 @@
 {
-  "facebook": "https://facebook.com/",
-  "twitter": "https://twitter.com/",
-  "instagram": "https://instagram.com/",
-  "youtube": "https://youtube.com/",
-  "linkedin": "https://linkedin.com/",
+  "facebook": "",
+  "twitter": "https://twitter.com/liturgy_bike",
+  "instagram": "",
+  "youtube": "",
+  "linkedin": "",
   "github": "",
   "gitlab": "",
   "medium": "",
@@ -22,9 +22,11 @@
   "tiktok": "",
   "foursquare": "",
   "rss": "",
-  "email": "",
+  "email": "info@lfabr.com",
   "phone": "",
   "address": "",
+  "strave": "https://www.strava.com/clubs/lfabr",
+  "ridewithgps": "https://ridewithgps.com/users/6658165/",
   "skype": "",
   "website": ""
 }

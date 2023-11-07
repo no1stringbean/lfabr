@@ -6,7 +6,7 @@ image: ""
 categories: ["intentions"]
 authors: ["Ben Schultz"]
 tags: ["formation", "counter-formation", "culture"]
-draft: false
+draft: true
 ---
 
 This page will talk about intentions

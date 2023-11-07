@@ -6,7 +6,7 @@ image: ""
 categories: ["basics"]
 authors: ["Ben Schultz"]
 tags: ["growth"]
-draft: false
+draft: true
 ---
 
 This page is going to be re-written as one of the basic concepts

@@ -1,6 +1,10 @@
 {
   "main": [
     {
+      "name": "Main",
+      "url": "/liturgy-for-a-bike-ride"
+    },
+    {
       "name": "Basics",
       "url": "/categories/basics"
     },

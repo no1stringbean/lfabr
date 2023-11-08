@@ -53,7 +53,7 @@ const { className, posts, fluid } = Astro.props;
           </a>
         </h3>
         <p class="text-text">
-          {post.body?.slice(0, Number(i === 0 && fluid != false ? summary_length * 2 : summary_length))}...
+          {post.data.description.slice(0, Number(i === 0 && fluid != false ? summary_length * 2 : summary_length))}...
         </p>
       </div>
     ))

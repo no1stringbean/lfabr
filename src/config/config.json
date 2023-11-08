@@ -17,9 +17,9 @@
   },
 
   "metadata": {
-    "meta_author": "Themefisher",
-    "meta_image": "/images/og-image.png",
-    "meta_description": "Bookworm Light Astro Blog Template"
+    "meta_author": "Liturgy for a Bike Ride",
+    "meta_image": "/images/logo.png",
+    "meta_description": "Liturgy for a Bike Ride"
   },
 
   "params": {
@@ -28,7 +28,7 @@
   },
 
   "contactinfo": {
-    "address": "355 S Grand Ave <br/> Los Angeles, CA 90071",
+    "address": "",
     "email": "info@lfabr.com",
-    "phone": "+800 567 1234"
+    "phone": "+"
   }}

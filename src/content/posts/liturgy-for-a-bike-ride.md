@@ -17,8 +17,6 @@ tags:
 draft: false
 ---
 
-How can cycling be a unique spiritual discipline? Why don't you ask God to show you!
-
 ### 1 | Gratitude
 
 Lord, we begin with gratitude for this ride.  

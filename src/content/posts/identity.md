@@ -1,6 +1,6 @@
 ---
 title: Identity
-description: "meta description"
+description: "Sometimes we think of ourselves as a brain on a stick - as if our thinking is the most important thing about us. Cyclists take this one step lower - and make it all about legs."
 date: 2023-11-05T11:20:00Z
 image: ""
 categories: ["basics"]
@@ -8,6 +8,8 @@ authors: ["Ben Schultz"]
 tags: ["identity"]
 draft: false
 ---
+
+### Whole-person: Heart, Soul, Mind, Body
 
 This may seem obvious, but you are more than legs.
 
@@ -21,7 +23,7 @@ And, if you are a disciple of Jesus - a Christian, an anointed one - you have he
 
 There is a difference between what we know in our minds and how we act with our whole person, and who we believe we are and what we love has a profound influence on our experienced well-being.
 
-## Basics
+### Basics
 
 [Identity](./identity)
 [Formation](./formation)

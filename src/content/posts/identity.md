@@ -1,11 +1,13 @@
 ---
 title: Identity
 description: "Sometimes we think of ourselves as a brain on a stick - as if our thinking is the most important thing about us. Cyclists take this one step lower - and make it all about legs."
+author: ["Ben Schultz"]
 date: 2023-11-05T11:20:00Z
+last update: 2023-11-09T11:55:00Z
 image: ""
 categories: ["basics"]
-author: ["Ben Schultz"]
 tags: ["identity"]
+stage: ["Seedling"]
 draft: false
 ---
 

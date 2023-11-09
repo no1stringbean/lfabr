@@ -1,7 +1,8 @@
 ---
-title: For a Mechanical
-description: "How can I turn an inconvenience into a positive experience?"
-date: 2023-07-27
+title: Title
+description: "meta description"
+date: 2023-07-27T00:00:00Z
+last update: ""
 image: ""
 categories: ["liturgies"]
 author: ["Ben Schultz"]
@@ -22,5 +23,13 @@ tags:
     "on a ride",
     "when things go wrong",
   ]
+stage: [
+  "Seed",
+  "Seedling",
+  "Sapling",
+  "Budding",
+  "Flowering",
+  "Fruit-bearing"
+	]
 draft: true
 ---

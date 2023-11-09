@@ -1,11 +1,13 @@
 ---
 title: "Formation: Money"
-description: "meta description"
+description: "Is there a way to be financially wise among a culture as materialistic and consumeristic as the bike industry or the billion-dollar fitness industry? "
+author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+last update: 2023-11-09T12:40:00Z
 image: ""
 categories: ["intentions"]
-author: ["Ben Schultz"]
-tags: ["formation", "counter-formation"]
+tags: ["counter-formation", "finances", "formation", "generosity", "spending"]
+stage: ["Sapling"]
 draft: false
 ---
 

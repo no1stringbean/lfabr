@@ -1,11 +1,13 @@
 ---
 title: Formation
-description: "Does riding a bike form you into a better or worse version of yourself?"
+description: "Does riding a bike form you into a better or worse version of yourself? Is there anything I can do to tap into cycling as a way of becoming a kinder, more loving person?"
+author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+last update: 2023-11-09T11:55:00Z
 image: ""
 categories: ["basics"]
-author: ["Ben Schultz"]
 tags: ["formation", "counter-formation", "culture"]
+stage: ["Seedling"]
 draft: false
 ---
 

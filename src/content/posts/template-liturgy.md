@@ -1,9 +1,9 @@
 ---
 title: "Liturgy Template"
 description: ""
+author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
 last update:  ""
-author: ["Ben Schultz"]
 image: ""
 categories: ["liturgies"]
 tags: [
@@ -12,12 +12,14 @@ tags: [
 	"commute by bike",
 	"counter-formation",
 	"everyday",
+	"finances",
+	"generosity",
+	"gratitude",
 	"formation",
 	"for drivers",
 	"for others",
-	"gratitude"
+	"spending",
 	]
-draft: true
 stage: [
 	"Seed",
 	"Seedling",
@@ -26,4 +28,6 @@ stage: [
 	"Flowering",
 	"Fruit-bearing"
   ]
+draft: true
+
 ---

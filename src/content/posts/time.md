@@ -1,11 +1,13 @@
 ---
 title: "Formation: Time"
 description: "meta description"
+author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+last update: 2023-11-09T12:45:00Z
 image: ""
 categories: ["intentions"]
-author: ["Ben Schultz"]
-tags: ["formation", "counter-formation"]
+tags: ["counter-formation", "formation"]
+stage: ["Sapling"]
 draft: false
 ---
 

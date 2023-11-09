@@ -6,14 +6,9 @@ last update: 2023-11-09T10:30:00Z
 author: ["Ben Schultz"]
 image: ""
 categories: ["liturgies"]
-tags: [
-	"gratitude",
-	"on a ride"
-	]
+tags: ["gratitude", "on a ride"]
 draft: true
-stage: [
-	"Seedling",
-	]
+stage: ["Seedling"]
 ---
 
 Lord, you are so good, so generous

@@ -1,11 +1,13 @@
 ---
 title: "Training Floor"
-description: "How can cycling be a unique spiritual discipline? Why don't you ask God to show you!"
+description: "meta description"
+author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+last update: ""
 image: ""
 categories: ["tactics"]
-author: ["Ben Schultz"]
 tags: ["interruptions", "training", "counter-formation", "training plan"]
+stage: ["Sapling"]
 draft: false
 ---
 

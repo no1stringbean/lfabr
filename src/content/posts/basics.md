@@ -13,7 +13,12 @@ draft: true
 
 This page will talk about basics
 
-## Basics
+A note on the writings on this site
+
+- talk about digital gardens
+- share Note Types docs
+
+### Basics
 
 - [Identity](./identity)
 - [Formation](./formation)

@@ -1,11 +1,13 @@
 ---
 title: "Liturgies"
 description: "meta description"
-date: 2023-11-05T11:20:00Z
-image: "/images/posts/02.jpg"
-categories: ["liturgies"]
 author: ["Ben Schultz"]
+date: 2023-11-05T11:20:00Z
+last update: ""
+image: ""
+categories: ["liturgies"]
 tags: ["liturgies-"]
+stage: ["Seedling"]
 draft: true
 ---
 

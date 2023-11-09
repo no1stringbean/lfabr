@@ -7,7 +7,7 @@ author: ["Ben Schultz"]
 image: ""
 categories: ["liturgies"]
 tags: [
-	"gratitude"
+	"gratitude",
 	"on a ride"
 	]
 draft: true

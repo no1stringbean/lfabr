@@ -4,7 +4,7 @@ description: "How can cycling be a unique spiritual discipline? Why don't you as
 date: 2023-11-05T08:00:00Z
 image: ""
 categories: ["tactics"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["interruptions", "training", "counter-formation", "training plan"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "Sometimes we think of ourselves as a brain on a stick - as if our 
 date: 2023-11-05T11:20:00Z
 image: ""
 categories: ["basics"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["identity"]
 draft: false
 ---

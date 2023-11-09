@@ -4,7 +4,7 @@ description: "meta description"
 date: 2023-11-05T08:00:00Z
 image: ""
 categories: ["intentions"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["formation", "counter-formation"]
 draft: false
 ---

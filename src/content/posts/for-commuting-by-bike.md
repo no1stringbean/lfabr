@@ -1,10 +1,10 @@
 ---
-title: For Commuting by Bike
+title: "For Commuting by Bike"
 description: "How can I turn an inconvenience into a positive experience?"
 date: 2023-08-30
 image: ""
 categories: ["liturgies"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["everyday", "gratitude", "grace", "on a ride", "commute by bike"]
 draft: false
 ---

@@ -4,7 +4,7 @@ description: "How can I turn an inconvenience into a positive experience?"
 date: 2023-08-15
 image: ""
 categories: ["liturgies"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags:
   [
     "commute by bike",

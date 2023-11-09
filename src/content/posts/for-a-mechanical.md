@@ -4,7 +4,7 @@ description: "How can I turn an inconvenience into a positive experience?"
 date: 2023-07-27
 image: ""
 categories: ["liturgies"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["everyday", "gratitude", "grace", "on a ride", "when things go wrong"]
 draft: false
 ---

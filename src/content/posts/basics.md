@@ -1,21 +1,13 @@
 ---
 title: "Basics"
 description: "What are the core ideas behind Liturgy for a Bike Ride? Where should I start?"
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
-last update: 
+last update: ""
 image: ""
 categories: ["basics"]
 tags: ["formation", "counter-formation", "culture"]
-author:["Ben Schultz"]
-tags: [
-	"formation",
-	"growth",
-	"identity"
-	]
-stage: [
-	"Seedling",
-  ]
+stage: ["Seed"]
 draft: true
 ---
 

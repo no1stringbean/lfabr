@@ -4,7 +4,7 @@ description: "Does riding a bike form you into a better or worse version of your
 date: 2023-11-05T08:00:00Z
 image: ""
 categories: ["intentions"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["formation", "counter-formation", "culture"]
 draft: true
 ---

@@ -4,7 +4,7 @@ description: "meta description"
 date: 2023-11-05T11:20:00Z
 image: "/images/posts/02.jpg"
 categories: ["liturgies"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["liturgies-"]
 draft: true
 ---

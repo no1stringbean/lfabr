@@ -4,7 +4,7 @@ description: "meta description"
 date: 2023-11-05T11:20:00Z
 image: ""
 categories: ["basics"]
-authors: ["Ben Schultz"]
+author: ["Ben Schultz"]
 tags: ["growth"]
 draft: true
 ---

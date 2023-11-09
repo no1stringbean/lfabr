@@ -6,7 +6,7 @@ author: ["Ben Schultz"]
 image: ""
 last update: 
 stage: #atomic/sprout
-categories: ["liturgiea"]
+categories: ["liturgies"]
 tags: ["autumn", "beauty", "on a ride"]
 ---
 

@@ -1,11 +1,13 @@
 ---
-title: "Formation: Body"
-description: "Draft: How can cyclists think differently about their bodies within a culture that is obsessed with watts per kilo and body image?"
+title: "Intentions: Body"
+description: "How can cyclists think differently about their bodies within a culture that is obsessed with watts per kilo, body image, food as fuel, and bodies as a less-than-deal machine?"
+authors: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+last update: 2023-11-09T10:45:00Z
 image: ""
 categories: ["intentions"]
-authors: ["Ben Schultz"]
 tags: ["formation", "counter-formation"]
+stage: ["Sapling"]
 draft: false
 ---
 

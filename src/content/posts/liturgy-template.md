@@ -7,14 +7,18 @@ categories: ["liturgies"]
 authors: ["Ben Schultz"]
 tags:
   [
+    "bike race",
+    "bike racer",
     "commute by bike",
     "counter-formation",
+    "culture",
     "everyday",
     "for drivers",
     "for others",
     "formation",
     "grace",
     "gratitude",
+    "joy of cycling",
     "on a ride",
     "when things go wrong",
   ]

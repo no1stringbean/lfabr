@@ -1,11 +1,13 @@
 ---
-title: "Formation: Enjoyment"
-description: "meta description"
+title: "Intention: Enjoyment"
+description: "Can we, as cyclists, be regularly reminded of the beauty and enjoyment of our sport?"
+authors: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+last update: 2023-11-09T11:00:00Z
 image: ""
 categories: ["intentions"]
-authors: ["Ben Schultz"]
-tags: ["everyday", "formation", "counter-formation"]
+tags: ["formation", "counter-formation", "joy of cycling"]
+stage: ["Sapling"]
 draft: false
 ---
 

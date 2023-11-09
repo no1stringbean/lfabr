@@ -1,11 +1,21 @@
 ---
 title: "Basics"
-description: "Does riding a bike form you into a better or worse version of yourself?"
+description: "What are the core ideas behind Liturgy for a Bike Ride? Where should I start?"
+authors: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+last update: 
 image: ""
 categories: ["basics"]
-authors: ["Ben Schultz"]
 tags: ["formation", "counter-formation", "culture"]
+author:["Ben Schultz"]
+tags: [
+	"formation",
+	"growth",
+	"identity"
+	]
+stage: [
+	"Seedling",
+  ]
 draft: true
 ---
 

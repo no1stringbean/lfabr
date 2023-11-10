@@ -6,7 +6,7 @@ date: 2023-11-05T08:00:00Z
 last update: 2023-11-09T12:45:00Z
 image: ""
 categories: ["intentions"]
-tags: ["counter-formation", "formation"]
+tags: ["abundance", counter-formation", "formation", "time-crunched"]
 stage: ["Sapling"]
 draft: false
 ---

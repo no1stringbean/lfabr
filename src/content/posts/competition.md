@@ -1,6 +1,6 @@
 ---
-title: "Intention: Competition (Optional)"
-description: "How do Christian athletes engage in competition and to what end? Can competition build us up in our faith and spirituality and in what ways should we be on our guard?"
+title: "Intentions: Competition"
+description: "For those of us who compete. How do Christian athletes engage in competition and to what end? Can competition build us up in our faith and spirituality and in what ways should we be on our guard?"
 author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
 last update: 2023-11-09T11:00:00Z

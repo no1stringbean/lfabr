@@ -1,5 +1,5 @@
 ---
-title: "Formation: Money"
+title: "Intentions: Money"
 description: "Is there a way to be financially wise among a culture as materialistic and consumeristic as the bike industry or the billion-dollar fitness industry? "
 author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z

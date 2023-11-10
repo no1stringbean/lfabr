@@ -1,5 +1,5 @@
 ---
-title: "Intention: Enjoyment"
+title: "Intentions: Enjoyment"
 description: "Can we, as cyclists, be regularly reminded of the beauty and enjoyment of our sport?"
 author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z

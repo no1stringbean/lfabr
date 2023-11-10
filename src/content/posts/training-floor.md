@@ -1,6 +1,6 @@
 ---
 title: "Training Floor"
-description: "meta description"
+description: "meta descriptionaa"
 author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
 last update: ""

@@ -1,5 +1,5 @@
 ---
-title: "Formation: Time"
+title: "Formations: Time"
 description: "meta description"
 author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z

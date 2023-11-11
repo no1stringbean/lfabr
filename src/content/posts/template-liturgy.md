@@ -1,9 +1,9 @@
 ---
 title: "Liturgy Template"
 description: ""
-author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
 last update:  ""
+author: ["Ben Schultz"]
 image: ""
 categories: ["liturgies"]
 tags: [

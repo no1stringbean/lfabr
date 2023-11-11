@@ -1,8 +1,8 @@
 ---
 title: "Basics"
 description: "What are the core ideas behind Liturgy for a Bike Ride? Where should I start?"
-author: ["Ben Schultz"]
 date: 2023-11-05T08:00:00Z
+author: ["Ben Schultz"]
 last update: ""
 image: ""
 categories: ["basics"]

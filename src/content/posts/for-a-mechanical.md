@@ -1,9 +1,9 @@
 ---
 title: For a Mechanical
 description: "How can I turn an inconvenience into a positive experience? Is there anything good about my bike not working right?"
-author: ["Ben Schultz"]
 date: 2023-07-27
 last update: 2023-11-09
+author: ["Ben Schultz"]
 image: ""
 categories: ["liturgies"]
 tags: ["everyday", "gratitude", "grace", "on a ride", "when things go wrong"]

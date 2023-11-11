@@ -1,9 +1,9 @@
 ---
 title: Growth
 description: "meta description"
-author: ["Ben Schultz"]
 date: 2023-11-05T11:20:00Z
 last update: ""
+author: ["Ben Schultz"]
 image: ""
 categories: ["basics"]
 tags: ["growth"]

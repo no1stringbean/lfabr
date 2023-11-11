@@ -2,8 +2,8 @@
 title: "Intentions"
 description: "Does riding a bike form you into a better or worse version of yourself?"
 date: 2023-11-05T08:00:00Z
-author: ["Ben Schultz"]
 last update: ""
+author: ["Ben Schultz"]
 image: ""
 categories: ["intentions"]
 tags: ["formation", "counter-formation", "culture"]

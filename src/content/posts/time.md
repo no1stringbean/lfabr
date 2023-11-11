@@ -1,9 +1,9 @@
 ---
 title: "Intentions: Time"
-description: "What does it mean to buck the idea of being a "time-crunched" cyclist and to engage abundance instead? Even within the reality of all of life's responsibilities?"
-author: ["Ben Schultz"]
+description: What does it mean to buck the idea of being a "time-crunched" cyclist and to engage abundance instead? Even within the reality of all of life's responsibilities?
 date: 2023-11-05T08:00:00Z
 last update: 2023-11-09T12:45:00Z
+author: ["Ben Schultz"]
 image: ""
 categories: ["intentions"]
 tags: ["abundance", counter-formation", "formation", "time-crunched"]

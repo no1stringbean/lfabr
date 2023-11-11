@@ -1,9 +1,9 @@
 ---
 title: For Those Stuck in Traffic
 description: "Bikes versus cars - does it have to be this way? What is it about the sense of superiority or animosity that can be felt between these two mutual road users? And is there anything we can do about it?"
-author: ["Ben Schultz"]
 date: 2023-08-15
 last update: 2023-11-09
+author: ["Ben Schultz"]
 image: ""
 categories: ["liturgies"]
 tags:

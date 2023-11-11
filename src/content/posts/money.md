@@ -1,9 +1,9 @@
 ---
 title: "Intentions: Money"
-description: "Is there a way to be financially wise among a culture as materialistic and consumeristic as the bike industry or the billion-dollar fitness industry? "
-author: ["Ben Schultz"]
+description: "Is there a way to be financially wise among a culture as materialistic and consumeristic as the bike industry or the billion-dollar fitness industry?"
 date: 2023-11-05T08:00:00Z
 last update: 2023-11-09T12:40:00Z
+author: ["Ben Schultz"]
 image: ""
 categories: ["intentions"]
 tags: ["counter-formation", "finances", "formation", "generosity", "spending"]

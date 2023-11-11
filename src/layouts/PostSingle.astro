@@ -52,7 +52,7 @@ const { title, description, categories, image, date, tags } =
               <li class="inline-block">
                 <a
                   href={`/tags/${slugify(tag)}`}
-                  class="block rounded-lg bg-theme-light px-4 py-2 font-semibold text-dark text-sm hover:text-primary transition duration-300"
+                  class="block rounded-lg bg-theme-light px-4 py-2 font-medium text-dark text-sm hover:text-primary transition duration-300"
                 >
                   #{humanize(tag)}
                 </a>
@@ -76,8 +76,10 @@ const { title, description, categories, image, date, tags } =
 
       <div class="md:col-10">
         <div class="content mb-16 text-left">
-          <p class="text-[1.5rem]">
+          <p class="text-[1.25rem]">
             {post.data.description}
+            <br>
+            <p>...</p>
           </p>
           <Content />
         </div>

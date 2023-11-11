@@ -4,10 +4,10 @@
     "base_url": "https://lfabr.com",
     "base_path": "/",
     "trailing_slash": false,
-    "favicon": "/images/favicon.png",
-    "logo": "/images/lfabr-logo.png",
-    "logo_width": "200",
-    "logo_height": "100",
+    "favicon": "/images/brand/favicon.png",
+    "logo": "/images/brand/lfabr_wordmark.png",
+    "logo_width": "250",
+    "logo_height": "125",
     "logo_text": "Liturgy for a Bike Ride"
   },
 
@@ -18,7 +18,7 @@
 
   "metadata": {
     "meta_author": "Liturgy for a Bike Ride",
-    "meta_image": "/images/logo.png",
+    "meta_image": "/images/brand/lfabr_wordmark.png",
     "meta_description": "Liturgy for a Bike Ride"
   },
 
@@ -30,5 +30,5 @@
   "contactinfo": {
     "address": "",
     "email": "info@lfabr.com",
-    "phone": "+"
+    "phone": ""
   }}

@@ -4,7 +4,7 @@ description: "A reflection on the changing of seasons through the transformation
 date: 2023-11-08
 last update: 2023-11-09
 author: ["Ben Schultz"]
-image: ""
+image: /images/posts/liturgies/for-the-falling-leaves.png
 categories: ["liturgies"]
 tags: ["autumn", "beauty", "on a ride"]
 stage: ["Seedling"]

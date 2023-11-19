@@ -17,7 +17,8 @@ To the settling in and darkening of autumn.
 We feel your love in this change of season.
 
 Trees could have been anything,  
-Yet you designed them to follow an arc - From life to death to new life,  
+Yet you designed them to follow an arc -  
+From life to death to new life,  
 We see your unlimited creativity in the countless leaves of uncountable colors.
 
 How lovely is their waning song?  

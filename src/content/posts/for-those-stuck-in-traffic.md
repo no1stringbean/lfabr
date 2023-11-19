@@ -24,7 +24,7 @@ And I have to admit that I feel at least a little superior,
 To all those poor people stuck in their cars,  
 Bumper to bumper, mindlessly moving, isolated and lonely.
 
-Humble me, O God!
+Humble me, O God!  
 Remind me that each car holds a person, sometimes more,  
 And even though I cannot see each person,  
 Help me to understand that each one of these persons is made in your image.

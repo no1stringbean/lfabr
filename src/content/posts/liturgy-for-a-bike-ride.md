@@ -37,7 +37,7 @@ All of these, God, are blessings from the abundance of your love and generosity 
 
 Reveal to us, God,  
 the aspects of this sub-culture that are fleeting,  
-worth little value to ourselves, to others, to You,
+worth little value to ourselves, to others, to You,  
 to put off, to remove, to flee from.
 
 Show us the temptations,  

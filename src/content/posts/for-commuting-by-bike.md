@@ -25,6 +25,6 @@ I ask for safe passage, kind conditions, attentive and courteous drivers,
 And for this time riding to bring my heart into a place  
 Where I am ready to offer my best to my work,  
 Not as a sacrifice of myself to a career,  
-But as an expression of love for the people I work with,
+But as an expression of love for the people I work with,  
 For the job I get to do each day,  
 For the clients, customers, and people I have the honor of serving.

@@ -8,7 +8,7 @@ image: /images/posts/basics/basics-for-others.png
 categories: ["basics"]
 tags: ["relationship", "community"]
 stage: ["Seed"]
-draft: false
+draft: true
 ---
 
 **_This note is only a seed at the moment - a splattering of thought and ideas at best._**

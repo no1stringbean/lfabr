@@ -4,7 +4,7 @@ description: "The things we do shape who we become, especially the small habits 
 date: 2023-07-24
 last update: 2023-11-27
 author: ["Ben Schultz"]
-image: /images/posts/basics/basics-formation.png
+image: ""
 categories: ["basics"]
 tags: ["formation", "counter-formation", "culture"]
 stage: ["Seedling"]

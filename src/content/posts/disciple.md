@@ -8,7 +8,7 @@ image: ""
 categories: ["Words"]
 tags: ["disciple", "quote"]
 stage: ["Seed"]
-draft: false
+draft: true
 ---
 
 **_This note is only a seed at the moment - a splattering of thought and ideas at best._**

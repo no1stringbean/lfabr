@@ -1,6 +1,6 @@
 ---
 title: "Training Floor"
-description: "meta descriptionaa"
+description: "We often try to cram as much as possible into every single day, including our riding. What if we sought a balance?"
 author: ["Ben Schultz"]
 date: 2023-07-12T08:00:00Z
 last update: ""
@@ -8,10 +8,8 @@ image: ""
 categories: ["paths"]
 tags: ["interruptions", "training", "counter-formation", "training plan"]
 stage: ["Sapling"]
-draft: false
+draft: true
 ---
-
-We often try to cram as much as possible into every single day.
 
 ### What is a training floor?
 

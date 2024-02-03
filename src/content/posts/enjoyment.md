@@ -8,7 +8,7 @@ image: ""
 categories: ["intentions"]
 tags: ["formation", "counter-formation", "joy of cycling"]
 stage: ["Sapling"]
-draft: false
+draft: true
 ---
 
 ## In Short

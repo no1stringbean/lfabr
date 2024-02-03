@@ -4,7 +4,7 @@ description: "While wrapped in God's grace, we seek to become more like Jesus in
 date: 2023-12-03
 last update:
 author: ["Ben Schultz"]
-image: /images/posts/basics/basics-growth.png
+image: ""
 categories: ["basics"]
 tags: ["growth"]
 stage: ["seedling"]

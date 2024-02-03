@@ -5,7 +5,7 @@ tagline: Basics
 date: 2023-11-05
 last update: 2023-11-28T06:45:00Z
 author: ["Ben Schultz"]
-image: /images/posts/basics/basics.png
+image: ""
 categories: ["basics"]
 tags: ["formation", "counter-formation", "culture"]
 stage: ["Seed"]

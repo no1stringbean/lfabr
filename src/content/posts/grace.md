@@ -4,7 +4,7 @@ description: "Everything we do is grounded in God's perfect love that preceeds e
 date: 2023-11-25
 last update: 2023-11-28
 author: ["Ben Schultz"]
-image: /images/posts/basics/basics-grace.png
+image: ""
 categories: ["basics"]
 tags: ["grace", "change", "transformation", "easy yoke"]
 stage: ["Seedling"]

@@ -4,7 +4,7 @@ description: "Cyclists often talk, think, and act as if life is primarily about 
 date: 2023-10-01T11:20:00Z
 last update: 2023-11-27T20:45:00Z
 author: ["Ben Schultz"]
-image: /images/posts/basics/basics-identity.png
+image: ""
 categories: ["basics"]
 tags: ["identity", "image of God", "temples"]
 stage: ["Seedling"]

@@ -15,11 +15,11 @@ basic_content:
   items:
     - title: "Identity"
       description: "Cyclists often talk, think, and act as if life is primarily about legs, yet we all know that life is much richer, fuller. As Christians we know everyone is made in the image of God - heart, soul, mind, and strength - and we're made to love him, ourselves, and others."
-      url: "./identity"
+      url: "/identity"
 
     - title: "Formation"
       description: "What we do shapes who we become, especially the small habits we engage with regularly. Riding a bike and being a part of cycling culture is no different - it can be a catalyst of transformation for us for good or un-good."
-      url: "./formation"
+      url: "/formation/"
 
     - title: "Grace"
       description: "Everything we do is grounded in God's perfect love that preceeds even our knowledge of him. We're motivated and inspired by a desire to love God, others, and ourselves - to grow into a version of ourselves that is only made possible by the transforming love of Jesus through his Holy Spirit."

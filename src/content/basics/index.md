@@ -80,7 +80,7 @@ A quick note about the writings on this site...
 
 The best way to think about the writings on Liturgy for a Bike Ride is like a garden. Even a "finished" garden requires care. Plants can be tended and cultivated. Plants can also sprout. Visitors to a garden can choose a path and what to focus on, whether that is a single flower or a collection of trees.
 
-Not every note and piece of writing on here has been cultivated for long. In order to share writing more frequently and to shun perfectionism, writings are shared well before they are fully baked or fully grown.[^4] An observere will notice, as they engage with this website, that many pieces are noticeably unfinished.
+Not every note and piece of writing on here has been cultivated for long. In order to share writing more frequently and to shun perfectionism, writings are shared well before they are fully baked or fully grown.[^4] An observer will notice, as they engage with this website, that many pieces are noticeably unfinished.
 
 <h5 class="pre-heading mt-20 text-left">Footnotes</h5>
 

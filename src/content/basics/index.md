@@ -23,19 +23,19 @@ basic_content:
 
     - title: "Grace"
       description: "Everything we do is grounded in God's perfect love that preceeds even our knowledge of him. We're motivated and inspired by a desire to love God, others, and ourselves - to grow into a version of ourselves that is only made possible by the transforming love of Jesus through his Holy Spirit."
-      url: "./grace"
+      url: "/grace/"
 
     - title: "Growth"
       description: "While wrapped in God's grace, we seek to become more like Jesus in all that we do, including when we're riding a bike. Growth doesn't just happen, not not in comfort, but through challenge - through embracing challenge as a unique opportunity to be shaped by the Holy Spirit."
-      url: "./growth"
+      url: "/growth/"
 
     - title: "Unity of LIfe"
       description: "All of life is connected in some way. The things we do and way we behave in one arena of life affects how we live in another. The bike allows us a unique instrument of character formation that can have affects in our life as a whole."
-      url: "./unity-of-life"
+      url: "/unity-of-life/"
 
     - title: "For Others"
       description: "Riding a bike can be a unique way that we personally connect with God and the world. Formation, at its best, is for the sake of others. We ride to become better mothers, sons, friends, employees. The bike is also an excuse to connect, grow bonds of friendship, and learn from one another."
-      url: "./for-others"
+      url: "/for-others/"
 
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "For a Long Ride"
 description: "A quick prayer engage with to bring thankfulness to mind and ask for protection before going on a long ride."
-date: 2023-09-05T08:00:00Z
+date: 2023-09-05
 last update: 2023-11-09T10:30:00Z
 author: ["Ben Schultz"]
 image: ""

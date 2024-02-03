@@ -1,0 +1,100 @@
+---
+import { Image } from "@astrojs/image/components";
+import Base from "@layouts/Base.astro";
+import { markdownify } from "@lib/utils/textConverter";
+import { getEntryBySlug } from "astro:content";
+
+const entry = await getEntryBySlug("basics", "index");
+const { Content } = await entry.render();
+const {
+  title,
+  tagline,
+  subtitle,
+  description,
+  meta_title,
+  image,
+  basic_content,
+} = entry.data;
+---
+
+<Base
+  title={title}
+  meta_title={meta_title}
+  description={description}
+  image={image}
+>
+  <section class="section">
+    <div class="container">
+      <article class="row justify-center">
+        <section class="section pt-0">
+          <!-- TAGLINE -->
+          <div class="md:col-10">
+            <p
+              class="text-secondary text-secondary text-base font-bold uppercase tracking-wide"
+              set:html={tagline}
+            />
+
+            <!-- TITLE -->
+            <div class="col-16">
+              <h1 set:html={markdownify(title)} class="h1 mb-8" />
+
+              <!-- DESCRIPTION -->
+              <div class="mx-auto max-w-3xl">
+                {
+                  description && (
+                    <p class="dark mb-6 text-xl" set:html={description} />
+                  )
+                }
+              </div>
+
+              <!-- IMAGE -->
+              <div class="col-12 mb-2 mt-8">
+                {
+                  image && (
+                    <Image
+                      src={image}
+                      height={600}
+                      width={800}
+                      alt={title}
+                      class="rounded-lg"
+                    />
+                  )
+                }
+              </div>
+            </div>
+
+            <!-- BASICS MAP -->
+            <section class="section pt-0">
+              <div class="container">
+                <h3 class="page-heading mb-10">{basic_content.title}</h3>
+                <p class="mb-10 justify-center text-center">
+                  {basic_content.description}
+                </p>
+                <div class="row gy-4 justify-center text-center">
+                  {
+                    basic_content.items.map((item: any) => (
+                      <div class="md:col-6 lg:col-4">
+                        <i class="{{.icon}} fa-3x text-primary mb-4" />
+                        <h4 class="font-weight-700 mb-3 text-dark">
+                          <a href={item.url}>{item.title}</a>
+                        </h4>
+                        <p>{item.description}</p>
+                      </div>
+                    ))
+                  }
+                </div>
+              </div>
+            </section>
+
+            <!-- CONTENT -->
+            <section class="section pt-0">
+              <div class="content mb-10 text-left">
+                <Content />
+              </div>
+            </section>
+          </div>
+        </section>
+      </article>
+    </div>
+  </section>
+</Base>

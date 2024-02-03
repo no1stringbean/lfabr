@@ -6,7 +6,7 @@
     },
     {
       "name": "Basics",
-      "url": "/categories/basics"
+      "url": "/basics"
     },
 
     {
@@ -18,14 +18,18 @@
       "url": "/categories/liturgies"
     },
     {
-      "name": "Tactics",
-      "url": "/categories/tactics"
+      "name": "Paths",
+      "url": "/categories/paths"
     }
   ],
   "footer": [
     {
       "name": "Contact",
       "url": "/contact"
+    },
+    {
+      "name": "All Posts",
+      "url": "/"
     },
     {
       "name": "Categories",

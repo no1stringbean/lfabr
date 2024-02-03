@@ -1,7 +1,7 @@
 ---
 title: "Liturgies"
 description: "meta description"
-date: 2023-11-05T11:20:00Z
+date: 2023-05-19T11:20:00Z
 last update: ""
 author: ["Ben Schultz"]
 image: ""

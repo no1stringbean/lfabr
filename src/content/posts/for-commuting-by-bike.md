@@ -1,7 +1,7 @@
 ---
 title: "For Commuting by Bike"
 description: "A ride to and from work can be strictly transportation. Is there a way to transform this time into something special which prepares me for the challenges and experiences of my work ahead?"
-date: 2023-08-30
+date: 2023-06-30
 last update: 2023-11-09
 author: ["Ben Schultz"]
 image: ""

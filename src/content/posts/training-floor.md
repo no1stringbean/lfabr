@@ -2,10 +2,10 @@
 title: "Training Floor"
 description: "meta descriptionaa"
 author: ["Ben Schultz"]
-date: 2023-11-05T08:00:00Z
+date: 2023-07-12T08:00:00Z
 last update: ""
 image: ""
-categories: ["tactics"]
+categories: ["paths"]
 tags: ["interruptions", "training", "counter-formation", "training plan"]
 stage: ["Sapling"]
 draft: false

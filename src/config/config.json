@@ -6,8 +6,8 @@
     "trailing_slash": false,
     "favicon": "/images/brand/favicon.png",
     "logo": "/images/brand/lfabr_wordmark.png",
-    "logo_width": "250",
-    "logo_height": "125",
+    "logo_width": "150",
+    "logo_height": "75",
     "logo_text": "Liturgy for a Bike Ride"
   },
 
@@ -19,11 +19,11 @@
   "metadata": {
     "meta_author": "Liturgy for a Bike Ride",
     "meta_image": "/images/brand/lfabr_wordmark.png",
-    "meta_description": "Liturgy for a Bike Ride"
+    "meta_description": "Prayers and liturgies for Christian cyclists. Tap into character formation available to those who humbly choose the bicycle as a unique means of spiritual discipline."
   },
 
   "params": {
-    "contact_form_action": "#",
+    "contact_form_action": "/",
     "copyright": "Copyright © 2023 Liturgy for a Bike Ride"
   },
 

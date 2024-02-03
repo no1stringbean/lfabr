@@ -16,6 +16,14 @@
   }
 }
 
+// color block before heading text
+.pre-heading {
+  @apply mb-20 text-center leading-10;
+  &:before {
+    @apply mx-auto mt-4 block h-1 w-10 rounded-full bg-primary content-[''];
+  }
+}
+
 // form style
 .form-inputs * {
   @apply mb-5 leading-10;

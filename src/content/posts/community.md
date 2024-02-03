@@ -1,7 +1,7 @@
 ---
 title: "Intentions: Community"
 description: "How can cycling act as a catalyst to grow our bonds to one another and encourage connection across disciplines, skill levels, and demographics?"
-date: 2023-11-05T08:00:00Z
+date: 2023-05-19
 last update: 2023-11-09T10:55:00Z
 author: ["Ben Schultz"]
 image: ""

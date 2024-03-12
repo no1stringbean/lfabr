@@ -3,7 +3,7 @@ title: "A Starting Place"
 description: "The core ideas behind Liturgy for a Bike Ride revolve around tapping into the depths of character formation available to those who humbly choose the bicycle as a unique means of spiritual discipline. The goal is for bicycles to be a catalyst to love and service for others."
 tagline: Basics
 date: 2023-11-05
-last update: 2023-11-28T06:45:00Z
+last update: 2024-02-28
 author: ["Ben Schultz"]
 image: ""
 categories: ["basics"]
@@ -19,23 +19,23 @@ basic_content:
 
     - title: "Formation"
       description: "What we do shapes who we become, especially the small habits we engage with regularly. Riding a bike and being a part of cycling culture is no different - it can be a catalyst of transformation for us for good or un-good."
-      url: "/formation/"
+      url: "/formation"
 
     - title: "Grace"
       description: "Everything we do is grounded in God's perfect love that preceeds even our knowledge of him. We're motivated and inspired by a desire to love God, others, and ourselves - to grow into a version of ourselves that is only made possible by the transforming love of Jesus through his Holy Spirit."
-      url: "/grace/"
+      url: "/grace"
 
     - title: "Growth"
-      description: "While wrapped in God's grace, we seek to become more like Jesus in all that we do, including when we're riding a bike. Growth doesn't just happen, not not in comfort, but through challenge - through embracing challenge as a unique opportunity to be shaped by the Holy Spirit."
-      url: "/growth/"
+      description: "While wrapped in God's grace, we seek to become more like Jesus in all that we do, including when we're riding a bike. Growth doesn't just happen and change doesn't occur in comfort, but through challenge - through embracing challenge as a unique opportunity to be shaped in ways only God can shape us."
+      url: "/growth"
 
     - title: "Unity of LIfe"
-      description: "All of life is connected in some way. The things we do and way we behave in one arena of life affects how we live in another. The bike allows us a unique instrument of character formation that can have affects in our life as a whole."
-      url: "/unity-of-life/"
+      description: "All of life is connected in some way. The things we do and way we behave in one arena of life affects how who we are and how we live in another. The bike allows us a unique instrument of character formation that can have affects in our life as a whole."
+      url: "/unity-of-life"
 
     - title: "For Others"
-      description: "Riding a bike can be a unique way that we personally connect with God and the world. Formation, at its best, is for the sake of others. We ride to become better mothers, sons, friends, employees. The bike is also an excuse to connect, grow bonds of friendship, and learn from one another."
-      url: "/for-others/"
+      description: "Riding a bike can be a unique way that we personally connect with God and the world. Formation, at its best, is for the sake of others. We ride to become better mothers, husbands, friends, employees, partners. The bike is also an excuse to connect and grow bonds of friendship, and learn from one another."
+      url: "/for-others"
 
 draft: false
 ---

@@ -1,8 +1,8 @@
 ---
 title: For the Falling Leaves
-description: "A reflection on the changing of seasons through the transformation of leaves from the lush greens of spring and summer to the vibrant autumnal shades"
+description: "A reflection on the changing of seasons through the transformation of leaves from the lush greens of spring and summer to the vibrant autumnal shades."
 date: 2023-11-08
-last update: 2023-11-09
+last update: 2023-02-28
 author: ["Ben Schultz"]
 image: /images/posts/liturgies/for-the-falling-leaves.png
 categories: ["liturgies"]
@@ -25,3 +25,8 @@ How lovely is their waning song?
 Burst to life before thrust to ground.  
 One last realization of your grace, God,  
 Before detachment and a graceful glide to the ground.
+
+Our riding becomes less frequent  
+And our rides become shorter.  
+We give more time to life outside of bikes  
+And prepare for the rest of seasons to come.

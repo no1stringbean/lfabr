@@ -1,8 +1,8 @@
 ---
 title: Growth
-description: "While wrapped in God's grace, we seek to become more like Jesus in all that we do, including when we're riding a bike. Growth doesn't just happen, not not in comfort, but through challenge - through embracing challenge as a unique opportunity to be shaped by the Holy Spirit."
+description: "While wrapped in God's grace, we seek to become more like Jesus in all that we do, including when we're riding a bike. Growth doesn't just happen and change doesn't occur in comfort, but through challenge - through embracing challenge as a unique opportunity to be shaped in ways only God can shape us."
 date: 2023-12-03
-last update:
+last update: 2024-02-28
 author: ["Ben Schultz"]
 image: ""
 categories: ["basics"]

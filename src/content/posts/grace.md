@@ -2,7 +2,7 @@
 title: Grace
 description: "Everything we do is grounded in God's perfect love that preceeds even our knowledge of him. We're motivated and inspired by a desire to love God, others, and ourselves - to grow into a version of ourselves that is only made possible by the transforming love of Jesus through his Holy Spirit."
 date: 2023-11-25
-last update: 2023-11-28
+last update: 2023-02-01
 author: ["Ben Schultz"]
 image: ""
 categories: ["basics"]

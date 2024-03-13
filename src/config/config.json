@@ -5,10 +5,15 @@
     "base_path": "/",
     "trailing_slash": false,
     "favicon": "/images/brand/favicon.png",
-    "logo": "/images/brand/lfabr_wordmark.png",
-    "logo_width": "150",
-    "logo_height": "75",
-    "logo_text": "Liturgy for a Bike Ride"
+    "logo": "/images/brand/liturgy-word-and-logomark.svg",
+    "logo_width": "140",
+    "logo_height": "35",
+    "logo_text": "Liturgy for a Bike Ride",
+    "logoFooter_title": "Liturgy for a Bike Ride",
+    "logoFooter": "/images/brand/liturgy-for-a-bike-ride-long-white.svg",
+    "logoFooter_width": "332.5",
+    "logoFooter_height": "35",
+    "logoFooter_text": "Liturgy for a Bike Ride"
   },
 
   "settings": {
@@ -24,7 +29,7 @@
 
   "params": {
     "contact_form_action": "/",
-    "copyright": "Copyright © 2023 Liturgy for a Bike Ride"
+    "copyright": "Copyright © 2024 Liturgy for a Bike Ride"
   },
 
   "contactinfo": {

@@ -1,4 +1,5 @@
 ---
+import LogoFooter from "@components/LogoFooter.astro";
 import Social from "@components/Social.astro";
 import config from "@config/config.json";
 import menu from "@config/menu.json";
@@ -9,6 +10,10 @@ import { markdownify } from "@lib/utils/textConverter";
 <footer class="section bg-theme-dark">
   <div class="container text-center">
     {/* footer menu */}
+        <!-- footer logo -->
+        <div class="order-0 mb-8">
+          <LogoFooter />
+        </div>
     <ul class="mb-8 space-x-4">
       {
         menu.footer.map((menu) => (

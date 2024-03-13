@@ -1,0 +1,39 @@
+---
+import { Image } from "@astrojs/image/components";
+import config from "@config/config.json";
+const { src } = Astro.props;
+const {
+  logoFooter,
+  logoFooter_width,
+  logoFooter_height,
+  logoFooter_text,
+  logoFooter_title,
+}: {
+  logoFooter: string;
+  logoFooter_width: any;
+  logoFooter_height: any;
+  logoFooter_text: string;
+  logoFooter_title: string;
+} = config.site;
+---
+
+<a href="/" class="navbar-brand block">
+  {
+    src || logoFooter ? (
+      <Image
+        width={logoFooter_width.replace("px", "") * 2}
+        height={logoFooter_height.replace("px", "") * 2}
+        src={src ? src : logoFooter}
+        alt={logoFooter_title}
+        style={{
+          height: logoFooter_height.replace("px", "") + "px",
+          width: logoFooter_width.replace("px", "") + "px",
+        }}
+      />
+    ) : logoFooter_text ? (
+      logoFooter_text
+    ) : (
+      logoFooter_title
+    )
+  }
+</a>

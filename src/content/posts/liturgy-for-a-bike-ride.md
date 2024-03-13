@@ -3,7 +3,7 @@ title: "Liturgy for a Bike Ride"
 description: "How can cycling be a unique spiritual discipline? Why don't you ask God to show you!"
 date: 2023-05-17T08:00:00Z
 last update: 2024-03-01
-image: /images/posts/liturgies/for-a-bike-ride.jpg
+image: /images/posts/liturgies/for-a-bike-ride.png
 categories: ["liturgies"]
 author: ["Ben Schultz"]
 tags:

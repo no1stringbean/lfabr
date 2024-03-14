@@ -13,7 +13,9 @@
       "@config/*": ["./src/config/*"],
       "@content/*": ["./src/content/*"],
       "@styles/*": ["./src/styles/*"],
-      "@lib/*": ["./src/lib/*"]
+      "jsx": ["react-jsx"],
+      "@lib/*": ["./src/lib/*"],
+      
     }
   }
 }

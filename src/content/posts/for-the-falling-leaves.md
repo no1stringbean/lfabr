@@ -2,11 +2,11 @@
 title: For the Falling Leaves
 description: "A reflection on the changing of seasons through the transformation of leaves from the lush greens of spring and summer to the vibrant autumnal shades."
 date: 2023-11-08
-last update: 2023-02-28
+last update: 2023-04-02
 author: ["Ben Schultz"]
 image: /images/posts/liturgies/for-the-falling-leaves.png
 categories: ["liturgies"]
-tags: ["autumn", "beauty", "on a ride"]
+tags: ["autumn", "beauty", "on a ride", "seasons"]
 stage: ["Seedling"]
 draft: false
 ---

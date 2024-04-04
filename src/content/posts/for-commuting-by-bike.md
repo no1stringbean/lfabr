@@ -2,7 +2,7 @@
 title: "For Commuting by Bike"
 description: "A ride to and from work can be strictly transportation. Is there a way to transform this time into something special which prepares me for the challenges and experiences of my work ahead?"
 date: 2023-06-30
-last update: 2023-11-09
+last update: 2023-04-02
 author: ["Ben Schultz"]
 image: ""
 categories: ["liturgies"]
@@ -11,20 +11,29 @@ stage: ["Sapling"]
 draft: false
 ---
 
-What a blessing!  
-To use this body I have been gifted to move,  
-To traverse A to B at a reflective pace,  
-To experience fresh air and an elevated state.
+What a blessing  
+to utilize the gift of this body  
+along with this machine  
+to travel at a reflective pace,  
+experience fresh air,  
+and benevolent state.
 
-What a blessing!  
-To get to know this route,  
-To experience the roads, paths, neighborhoods, cities, countrysides;  
-To be a trail of light each day through this small piece of the world and the people along this path.
+What a blessing  
+to take in this route through all my senses,  
+to learn the roads, paths, neighborhoods,  
+cities, and countrysides I pass by regularly.
 
-I ask for safe passage, kind conditions, attentive and courteous drivers,  
-And for this time riding to bring my heart into a place  
-Where I am ready to offer my best to my work,  
-Not as a sacrifice of myself to a career,  
-But as an expression of love for the people I work with,  
-For the job I get to do each day,  
-For the clients, customers, and people I have the honor of serving.
+What a blessing  
+to be a trail of kindness each day  
+through this small piece of the world  
+and the people along this way.
+
+I ask for safe passage, kind conditions,  
+attentive and courteous drivers.  
+May this time riding bring my heart  
+into a place where I can offer my best  
+to my work as an expression of love  
+for the people I work with,  
+for the clients, customers, and people  
+I have the honor of serving,  
+and for the job I get to do each day.

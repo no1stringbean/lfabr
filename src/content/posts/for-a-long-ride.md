@@ -1,13 +1,13 @@
 ---
 title: "For a Long Ride"
-description: "A quick prayer engage with to bring thankfulness to mind and ask for protection before going on a long ride."
+description: "A quick prayer to engage with to bring thankfulness to mind and ask for protection before going on a long ride."
 date: 2023-09-05
-last update: 2023-11-09T10:30:00Z
+last update: 2023-04-02T19:45:00Z
 author: ["Ben Schultz"]
 image: ""
-categories: ["liturgies"]
+categories: ["liturgies", "meditations"]
 tags: ["gratitude", "on a ride"]
-draft: true
+draft: false
 stage: ["Seedling"]
 ---
 
